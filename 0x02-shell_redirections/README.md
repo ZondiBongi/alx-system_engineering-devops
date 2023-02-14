@@ -1,1 +1,1 @@
-deleting regular file with a .js extension
+deleting files with a .js extension
