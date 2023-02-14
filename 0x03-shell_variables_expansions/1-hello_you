@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ~hello user
+usermod -l hello user old-name
