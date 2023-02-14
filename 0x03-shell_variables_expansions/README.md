@@ -1,1 +1,1 @@
-change current user name
+add /action to path
