@@ -1,1 +1,1 @@
-enter or replace output into file
+duplicate last line
