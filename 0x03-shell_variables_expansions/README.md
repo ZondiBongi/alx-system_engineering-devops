@@ -1,1 +1,1 @@
-prints a number with two decimal places
+ counts the number of directories in PATH
