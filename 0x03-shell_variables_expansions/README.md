@@ -1,1 +1,1 @@
-display the results of BREATH to the power LOVE
+converts a number from base 2 to base 10
