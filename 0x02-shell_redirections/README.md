@@ -1,1 +1,1 @@
-display the newest 10 directories
+takes a lis of words as input and only prints the owrds that appear once
