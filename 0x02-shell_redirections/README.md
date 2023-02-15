@@ -1,1 +1,1 @@
-displays all users and their home directories, sorted by users
+create a file with a name including special characters with text init
