@@ -1,1 +1,1 @@
-display lines conatining the pattern  root from a file
+display lines that conating the pattern  'bin'
