@@ -1,1 +1,1 @@
-count the number of directories and sub directories
+display the newest 10 directories
