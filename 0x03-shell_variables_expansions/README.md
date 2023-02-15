@@ -1,1 +1,1 @@
-prints the results of the addition of 128 withthe value stored in the environment variable
+prints the results of POWER divided by DIVIDE
