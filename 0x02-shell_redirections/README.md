@@ -1,1 +1,1 @@
-takes a lis of words as input and only prints the owrds that appear once
+display lines conatining the pattern  root from a file
